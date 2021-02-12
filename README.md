@@ -1,8 +1,10 @@
 # Домашнее задание к лекции «Unit-тестирование»
 
-## Задача 1 "Чистые функции"
+## Задача 2 "Matchers"
 
 --------------------------
 
-[![Build status](https://ci.appveyor.com/api/projects/status/9g25us8v8746doe9?svg=true)](https://ci.appveyor.com/project/deizee/ajs-tests-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/lu7plva8mwtmipr0?svg=true)](https://ci.appveyor.com/project/deizee/ajs-tests-2)
+
+
 
